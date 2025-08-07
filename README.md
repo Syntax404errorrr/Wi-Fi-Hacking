@@ -64,7 +64,7 @@ pkg install tsu -y || pkg install sudo -y
 ````
 
 ```bash
-git clone https://github.com/Syntax404errorrr/WIPWN
+git clone https://github.com/Syntax404errorrr/wipwn-root
 cd wipwn
 chmod +x main.py
 ```
