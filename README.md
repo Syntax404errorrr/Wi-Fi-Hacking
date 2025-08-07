@@ -142,17 +142,14 @@ Make sure you are inside the `wipwn` directory when running the update script.
 
 ## 💬 Contact & Support
 
-* 📧 Email: [anbuinfosec@gmail.com](mailto:anbuinfosec@gmail.com)
-* 💬 Telegram: [@anbuinfosec](https://t.me/anbuinfosec)
-* 💬 Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
-* 🌐 Website: [https://anbuinfosec.live](https://anbuinfosec.live)
-* 🐞 Report issues: [GitHub Issues](https://github.com/anbuinfosec/wipwn/issues)
+* 📧 Email: [syntax404errorr@gmail.com](mailto:syntax404errorr@gmail.com)
+* 💬 Telegram: [@anbuinfosec](https://t.me/NotFound_404_Errorr)
 
 ---
 
 ## 📜 License
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [Apache License 2.0](LICENSE).
 You are free to use, modify, and distribute responsibly.
 
 ---
