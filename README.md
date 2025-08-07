@@ -140,32 +140,6 @@ Make sure you are inside the `wipwn` directory when running the update script.
 
 ---
 
-## 🖼️ Screenshots
-
-| Scan                                                                                              | Cracked PIN                                                                                       | Saved Data                                                                                        | Config                                                                                            |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/1.jpg) | ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/2.jpg) | ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/3.jpg) | ![](https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/refs/heads/main/assets/wipwn/4.jpg) |
-
----
-
-## 🗂️ File Structure
-
-```txt
-📁 wipwn/
-├── assets/           → Logo and screenshots
-├── colors.py         → Terminal color helper
-├── config.txt        → Output config format
-├── LICENSE           → MIT License
-├── main.py           → Main WiFi attack script
-├── README.md         → Project documentation
-├── vulnwsc.txt       → Vulnerable BSSID database (sample)
-├── setup.py          → Install/uninstall launcher script
-├── update.py         → Git update helper script
-└── wipwn.sh          → Bash launcher script
-```
-
----
-
 ## 💬 Contact & Support
 
 * 📧 Email: [anbuinfosec@gmail.com](mailto:anbuinfosec@gmail.com)
@@ -185,7 +159,7 @@ You are free to use, modify, and distribute responsibly.
 
 ## 👤 Author
 
-Made with ❤️ by **Mohammad Alamin**
+Made with ❤️ by **Syntax404errorr**
 
 Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
 
