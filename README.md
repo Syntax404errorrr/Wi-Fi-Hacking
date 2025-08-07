@@ -9,24 +9,6 @@
   <i>Built for Termux • Root Required • Ethical Use Only</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anbuinfosec/wipwn/stargazers">
-    <img src="https://img.shields.io/github/stars/anbuinfosec/wipwn?color=gold&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anbuinfosec/wipwn/network/members">
-    <img src="https://img.shields.io/github/forks/anbuinfosec/wipwn?color=blue&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anbuinfosec/wipwn">
-    <img src="https://img.shields.io/github/repo-size/anbuinfosec/wipwn?style=for-the-badge&color=informational" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/anbuinfosec/wipwn/commits/main">
-    <img src="https://img.shields.io/github/last-commit/anbuinfosec/wipwn?style=for-the-badge&color=success" alt="Last Commit" />
-  </a>
-  <a href="https://t.me/anbuinfosec_official">
-    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
-
 ---
 
 > ⚠️ **Disclaimer:**  
