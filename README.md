@@ -140,13 +140,6 @@ Make sure you are inside the `wipwn` directory when running the update script.
 
 ---
 
-## 💬 Contact & Support
-
-* 📧 Email: [syntax404errorr@gmail.com](mailto:syntax404errorr@gmail.com)
-* 💬 Telegram: [@anbuinfosec](https://t.me/NotFound_404_Errorr)
-
----
-
 ## 📜 License
 
 Licensed under the [Apache License 2.0](LICENSE).
