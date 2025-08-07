@@ -1,15 +1,12 @@
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# COMPILED BY @anbuinfosec
-# COMPILEDTIME :- 22:02:2025 - 23:09:45.
-# FACEBOOK :- https://facebook.com/anbuinfosec
-# GITHUB :- https://github.com/anbuinfosec
-# TELEGRAM :- https://t.me/anbuinfosec_official
-# YOUTUBE :- https://youtube.com/@anbuinfosec
+# COMPILED BY @syntax404erorr
+# COMPILEDTIME :- 07:08:2025 - 15:26:21.
+# GITHUB :- https://github.com/syntax404erorrr
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 Author: @syntax404erorr
 GitHub: https://github.com/syntax404erorrr/wipwn
-License: Apatche 2.0
+License: Apache License 2.0
 Disclaimer:
     This tool is for educational and authorized penetration testing only.  
     Do NOT use on unauthorized networks.  
