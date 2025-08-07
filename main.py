@@ -7,9 +7,9 @@
 # YOUTUBE :- https://youtube.com/@anbuinfosec
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
-Author: @anbuinfosec
-GitHub: https://github.com/anbuinfosec/wipwn
-License: MIT License
+Author: @syntax404erorr
+GitHub: https://github.com/syntax404erorrr/wipwn
+License: Apatche 2.0
 Disclaimer:
     This tool is for educational and authorized penetration testing only.  
     Do NOT use on unauthorized networks.  
