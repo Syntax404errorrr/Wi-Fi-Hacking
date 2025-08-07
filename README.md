@@ -151,11 +151,9 @@ You are free to use, modify, and distribute responsibly.
 
 Made with ❤️ by **Syntax404errorr**
 
-Facebook: [@anbuinfosec](https://facebook.com/anbuinfosec)
+GitHub: [@syntax404errorrrc](https://github.com/syntax404errorrr)
 
-GitHub: [@anbuinfosec](https://github.com/anbuinfosec)
-
-Email: [anbuinfosec@gmail.com](mailto:anbuinfosec@gmail.com)
+Email: [syntax404errorr@gmail.com](mailto:syntax404errorr@gmail.com)
 
 ---
 
