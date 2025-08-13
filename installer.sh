@@ -69,5 +69,5 @@ File/Wi-Fi-Hacking.py -i wlan0 -K${RESET}
 
 💡 Replace ${MAGENTA}wlan0${RESET} with your actual wireless interface (e.g. wlan1, eth0).
 
-📬 Telegram Support: ${GREEN}@FARHAN_MUH_TASIM${RESET}
+📬 GitHub Support: ${GREEN}@Syntax404errorr${RESET}
 "
