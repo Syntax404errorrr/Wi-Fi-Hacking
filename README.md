@@ -99,7 +99,7 @@ python3 setup.py uninstall
 
 ---
 
-### Update WIPWN to the latest version
+### Update Wi-Fi-Hacking to the latest version
 
 To update your local repository to the latest commit from GitHub, use:
 
