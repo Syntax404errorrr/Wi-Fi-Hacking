@@ -78,7 +78,7 @@ chmod +x wifi-hacking.py
 After cloning and entering the repo folder, run:
 
 ```bash
-python3 setup.py install
+python3 install.py install
 ```
 
 This will create a convenient launcher script `Wi-Fi-Hacking` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
