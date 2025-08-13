@@ -64,7 +64,7 @@ pkg install tsu -y || pkg install sudo -y
 ````
 
 ```bash
-git clone https://github.com/Syntax404errorrr/wipwn-root
+git clone https://github.com/Syntax404errorrr/Wi-Fi-Hacking
 cd wipwn
 chmod +x main.py
 ```
