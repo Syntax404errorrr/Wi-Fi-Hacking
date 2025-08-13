@@ -2,7 +2,7 @@
 # COMPILED BY @syntax404errorr
 # COMPILEDTIME :- 08:13:2025 - 16:39:30.
 # FACEBOOK :- https://facebook.com/syntax404errorr
-# GITHUB :- https://github.com/syntax404errorr
+# GITHUB :- https://github.com/syntax404errorrr
 # TELEGRAM :- https://t.me/syntax404errorr
 # YOUTUBE :- https://youtube.com/@syntax404errorr
 #━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
