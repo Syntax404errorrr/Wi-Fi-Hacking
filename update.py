@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Author: @anbuinfosec
-GitHub: https://github.com/anbuinfosec/wipwn
-License: MIT License
+Author: @Syntax404errorr
+GitHub: https://github.com/Syntax404errorr/Wi-Fi-Hacking
+License: Apache License 2.0
 Disclaimer:
     This tool is for educational and authorized penetration testing only.  
     Do NOT use on unauthorized networks.  
