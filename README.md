@@ -1,7 +1,7 @@
-<h1 align="center">⚡ WIPWN - WiFi Pentesting Framework</h1>
+<h1 align="center">⚡ Wi-Fi-Hacking - WiFi Pentesting Framework</h1>
 
 <p align="center">
-  <img src="assets/image.png" alt="WIPWN Logo" width="120" />
+  <img src="assets/image.png" alt="Wi-Fi-Hacking Logo" width="120" />
 </p>
 
 <p align="center">
