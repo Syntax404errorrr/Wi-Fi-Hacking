@@ -16,8 +16,8 @@ import subprocess
 import colors
 
 SCRIPT_NAME = 'wifi-hacking.py'
-MODULE_NAME = 'wifi-hacking'
-BIN_NAME = 'wifi-hacking'
+MODULE_NAME = 'WiFi-Hacking'
+BIN_NAME = 'WiFi-Hacking'
 
 def is_termux():
     return os.getenv("PREFIX", "").startswith("/data/data/com.termux/files/usr")
