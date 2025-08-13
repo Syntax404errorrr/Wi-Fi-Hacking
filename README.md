@@ -71,34 +71,6 @@ chmod +x wifi-hacking.py
 
 ---
 
-## ⚙️ Setup & Update
-
-### Setup (Install launcher script)
-
-After cloning and entering the repo folder, run:
-
-```bash
-python3 install.py install
-```
-
-This will create a convenient launcher script `Wi-Fi-Hacking` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
-
-```bash
-wifi-hacking --help
-```
-
----
-
-### Uninstall launcher script
-
-If you want to uninstall the launcher script:
-
-```bash
-python3 setup.py uninstall
-```
-
----
-
 ### Update Wi-Fi-Hacking to the latest version
 
 To update your local repository to the latest commit from GitHub, use:
