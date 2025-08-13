@@ -66,7 +66,7 @@ pkg install tsu -y || pkg install sudo -y
 ```bash
 git clone https://github.com/Syntax404errorrr/Wi-Fi-Hacking
 cd Wi-Fi-Hacking
-chmod +x Wi-Fi-Hacking.py
+chmod +x wifi-hacking.py
 ```
 
 ---
@@ -84,7 +84,7 @@ python3 setup.py install
 This will create a convenient launcher script `Wi-Fi-Hacking` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
 
 ```bash
-Wi-Fi-Hacking --help
+wifi-hacking --help
 ```
 
 ---
@@ -122,11 +122,11 @@ Make sure you are inside the `Wi-Fi-Hacking` directory when running the update s
 
 | Command                                              | Description                 |
 | ---------------------------------------------------- | --------------------------- |
-| `sudo python Wi-Fi-Hacking.py --help`                         | Show help options           |
-| `sudo python Wi-Fi-Hacking.py -i wlan0 -K`                    | Scan and auto attack        |
-| `sudo python Wi-Fi-Hacking.py -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
-| `sudo python Wi-Fi-Hacking.py -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
-| `bash wipwn.sh`                                      | Use Bash launcher           |
+| `sudo python wifi-hacking.py --help`                         | Show help options           |
+| `sudo python wifi-hacking.py -i wlan0 -K`                    | Scan and auto attack        |
+| `sudo python wifi-hacking.py -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
+| `sudo python wifi-hacking.py -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
+| `bash wifi-hacking.sh`                                      | Use Bash launcher           |
 
 ---
 
