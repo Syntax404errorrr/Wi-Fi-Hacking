@@ -66,7 +66,7 @@ pkg install tsu -y || pkg install sudo -y
 ```bash
 git clone https://github.com/Syntax404errorrr/Wi-Fi-Hacking
 cd Wi-Fi-Hacking
-chmod +x main.py
+chmod +x Wi-Fi-Hacking.py
 ```
 
 ---
@@ -81,10 +81,10 @@ After cloning and entering the repo folder, run:
 python3 setup.py install
 ```
 
-This will create a convenient launcher script `wipwn` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
+This will create a convenient launcher script `Wi-Fi-Hacking` in your Termux `~/../usr/bin/` directory, so you can run the tool by simply typing:
 
 ```bash
-wipwn --help
+Wi-Fi-Hacking --help
 ```
 
 ---
@@ -107,7 +107,7 @@ To update your local repository to the latest commit from GitHub, use:
 python3 update.py
 ```
 
-Make sure you are inside the `wipwn` directory when running the update script.
+Make sure you are inside the `Wi-Fi-Hacking` directory when running the update script.
 
 ---
 
@@ -122,10 +122,10 @@ Make sure you are inside the `wipwn` directory when running the update script.
 
 | Command                                              | Description                 |
 | ---------------------------------------------------- | --------------------------- |
-| `sudo python main.py --help`                         | Show help options           |
-| `sudo python main.py -i wlan0 -K`                    | Scan and auto attack        |
-| `sudo python main.py -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
-| `sudo python main.py -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
+| `sudo python Wi-Fi-Hacking.py --help`                         | Show help options           |
+| `sudo python Wi-Fi-Hacking.py -i wlan0 -K`                    | Scan and auto attack        |
+| `sudo python Wi-Fi-Hacking.py -i wlan0 -b <BSSID> -K`         | Attack specific BSSID       |
+| `sudo python Wi-Fi-Hacking.py -i wlan0 -b <BSSID> -B -p 1234` | Bruteforce using PIN prefix |
 | `bash wipwn.sh`                                      | Use Bash launcher           |
 
 ---
