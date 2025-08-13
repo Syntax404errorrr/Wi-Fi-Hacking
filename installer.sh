@@ -17,8 +17,8 @@ RESET='\033[0m'
 # ==========================
 echo -e "${CYAN}${BOLD}"
 echo "╔══════════════════════════════════════════════════════╗"
-echo "║              Wi-Fi Hacking Installer                ║"
-echo "║           Wi-Fi Hacking • Rooted Termux         ║"
+echo "║                Wi-Fi Hacking Installer               ║"
+echo "║            Wi-Fi Hacking • Rooted Termux           ║"
 echo "╚══════════════════════════════════════════════════════╝"
 echo -e "${RESET}"
 
