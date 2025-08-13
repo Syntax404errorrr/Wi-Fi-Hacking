@@ -15,9 +15,9 @@ import sys
 import subprocess
 import colors
 
-SCRIPT_NAME = 'wipwn.py'
-MODULE_NAME = 'wipwn'
-BIN_NAME = 'wipwn'
+SCRIPT_NAME = 'wifi-hacking.py'
+MODULE_NAME = 'wifi-hacking'
+BIN_NAME = 'wifi-hacking'
 
 def is_termux():
     return os.getenv("PREFIX", "").startswith("/data/data/com.termux/files/usr")
